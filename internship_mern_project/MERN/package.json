@@ -7,7 +7,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Harsh Tiwari",
+  "author": "Samikshya Barik",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
